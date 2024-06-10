@@ -3,7 +3,6 @@ streamlit
 pandas
 numpy
 ydata_profiling
-streamlit_pandas_profiling 
 openpyxl
 write
 
