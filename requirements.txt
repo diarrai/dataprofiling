@@ -5,4 +5,5 @@ numpy
 ydata_profiling
 openpyxl
 write
+st_profile_report
 
