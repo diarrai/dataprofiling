@@ -4,6 +4,6 @@ pandas
 numpy
 ydata_profiling
 streamlit_pandas_profiling 
-ProfileReport
+openpyxl
 write
 
