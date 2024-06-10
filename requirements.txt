@@ -5,5 +5,7 @@ numpy
 ydata_profiling
 openpyxl
 write
-st_profile_report
+streamlit_pandas_profiling==0.1.3
+streamlit-on-Hover-tabs==1.0.1
+pandas_profiling==3.4.0
 
