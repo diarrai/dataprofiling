@@ -2,8 +2,9 @@ nbformat
 streamlit
 pandas
 numpy
-from nbformat import write
-import ydata_profiling
-from streamlit_pandas_profiling import st_profile_report
-from ydata_profiling import ProfileReport
+ydata_profiling
+streamlit_pandas_profiling 
+st_profile_report
+ProfileReport
+write
 
