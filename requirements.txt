@@ -5,7 +5,6 @@ numpy
 ydata_profiling
 openpyxl
 write
-pandas_profiling==3.4.0
 streamlit_pandas_profiling==0.1.3
 
 
