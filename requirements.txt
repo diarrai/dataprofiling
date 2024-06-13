@@ -2,7 +2,7 @@ nbformat
 streamlit
 pandas
 numpy
-ydata_profiling
+ydata-profiling
 openpyxl
 write
 
